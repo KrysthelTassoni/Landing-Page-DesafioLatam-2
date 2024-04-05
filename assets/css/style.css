@@ -19,17 +19,22 @@ body {
 h1 {
   font-size: 50px;
   font-weight: bolder;
-  padding-top: 45px;
+  padding-top: 50px;
 }
 
 .paragraph {
   display: inline-block;
   color: black;
-  background-color: whitesmoke;
-  font-size: 20px;
+  background-color: rgba(226, 220, 220, 0.452);
+  border-radius: 10px;
+  opacity: 2 ;
+
+  font-size: 22px;
   margin-top: 0px;
-  padding: 10px;
-}
+  padding: 10px;}
+
+
+
 
 /*seccion main*/
 
