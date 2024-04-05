@@ -27,16 +27,16 @@ h1 {
   color: black;
   background-color: rgba(226, 220, 220, 0.452);
   border-radius: 10px;
-  opacity: 2 ;
+  opacity: 2;
 
   font-size: 22px;
   margin-top: 0px;
-  padding: 10px;}
-
-
-
+  padding: 10px;
+}
 
 /*seccion main*/
+
+#P-1 {text-align: center;}
 
 .main {
   text-align: left;
