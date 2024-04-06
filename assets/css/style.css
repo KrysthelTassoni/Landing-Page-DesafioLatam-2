@@ -14,6 +14,7 @@ body {
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
   margin: 30px 60px 10px 60px;
+  padding-bottom: 40px;
 }
 
 h1 {
@@ -55,6 +56,7 @@ img {
 
 .block {
   display: inline-block;
+  margin-bottom: 20px;
 }
 
 /*seccion footer*/
@@ -67,6 +69,6 @@ img {
 }
 
 #tamaño {
-  width: 15px;
+  width: 25px;
   margin-left: 10px;
 }
