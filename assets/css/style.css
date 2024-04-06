@@ -37,7 +37,9 @@ h1 {
 
 /*seccion main*/
 
-#P-1 {text-align: center;}
+#P-1 {
+  text-align: center;
+}
 
 .main {
   text-align: left;
